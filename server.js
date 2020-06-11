@@ -4,7 +4,7 @@
  * ***************************************************/
 
 'use strict';
-console.log("Hello World");
+
 var fs = require('fs');
 var express = require('express');
 var app = express();
