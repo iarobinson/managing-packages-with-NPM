@@ -48,7 +48,7 @@ app.get("/json", function(req, res) {
       { "mesage": "Hello json"}
     )
   }
-});
+}); 
 
 /** 7) Root-level Middleware - A logger */
 //  place it before all the routes !
